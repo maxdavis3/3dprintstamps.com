@@ -1,0 +1,183 @@
+baseURL = "https://3dprintstamps.com/"
+languageCode = "en-us"
+title = "3D Print Stamps"
+theme = "printwire"
+
+[params]
+tagline       = "Custom 3D printed rubber stamps, embossing dies, and marking tools — logo stamps, address stamps, and industrial part-marking systems."
+description   = "3D Print Stamps covers additive manufacturing of marking and stamping tools — from photopolymer rubber stamp printing to metal embossing dies, hot stamp foil tools, and industrial part-marking devices."
+keywords      = "3D printed stamps, custom rubber stamp AM, embossing die 3D print, logo stamp 3D print, part marking 3D print, hot stamp tool AM"
+logoEmoji     = "📮"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#1d4ed8"
+colorPrimaryDark  = "#1e3a8a"
+colorPrimaryLight = "#60a5fa"
+colorBgDark       = "#020410"
+colorBgSection    = "#030618"
+colorBgCard       = "#050a22"
+colorBgCardHover  = "#07102e"
+
+fontPrimary   = "Josefin+Sans"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=1920&q=80"]
+
+heroEyebrow  = "Custom Marking & Stamping"
+heroTitle    = "3D Print <em>Stamps</em>"
+heroSubtitle = "Custom 3D printed rubber stamps, embossing dies, and marking tools — logo stamps, address stamps, and industrial part-marking systems."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=1920&q=80"
+
+overviewTitle   = "Custom Stamps Without Tooling Delays"
+overviewText    = "From logo rubber stamps in 24 hours to precision metal embossing dies for industrial packaging — additive manufacturing delivers marking tools faster and cheaper than traditional engraving."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Print Stamps Services"
+servicesSubtitle = "Custom 3D printed rubber stamps, embossing dies, and marking tools — logo stamps, address stamps, and industrial part-marking systems."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Custom 3D printed rubber stamps, embossing dies, and marking tools — logo stamps, address stamps, and industrial part-marking systems."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 24
+suffix = "hr"
+label  = "Custom Stamp Turnaround"
+
+[[params.stats]]
+count  = 200
+suffix = "µm"
+label  = "Minimum Feature Size"
+
+[[params.stats]]
+count  = 70
+suffix = "%"
+label  = "Cost vs Machined Die"
+
+[[params.stats]]
+count  = 10000
+suffix = "+"
+label  = "Impressions per Stamp Life"
+
+
+[[params.applications]]
+title       = "Logo & Brand Stamps"
+description = "Photopolymer rubber stamps for logo, address, and custom text marking on paper and packaging."
+image       = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=1920&q=80"
+
+[[params.applications]]
+title       = "Industrial Part Marking"
+description = "Metal dot-peen and hot stamp dies for permanent part identification and traceability marking."
+image       = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=1920&q=80"
+
+[[params.applications]]
+title       = "Embossing & Debossing"
+description = "Custom embossing dies for letterpress, leather embossing, and paper embossing applications."
+image       = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=1920&q=80"
+
+[[params.applications]]
+title       = "Food-Safe Stamps"
+description = "Food-safe polymer stamps for chocolate, fondant, and bread marking in commercial bakeries."
+image       = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "📮"
+title       = "Photopolymer Stamp Printing"
+description = "Custom rubber stamp masters from DLP resin — artwork to stamp in 24 hours, any logo or text at 200µm resolution."
+
+[[params.servicesPreview]]
+icon        = "⚙️"
+title       = "Metal Embossing Dies"
+description = "DMLS tool steel embossing and debossing dies for industrial packaging, leather goods, and letterpress printing."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Industrial Marking Tools"
+description = "Part identification dies, date-code inserts, and hot stamp foil tooling for production line marking."
+
+[[params.servicesPreview]]
+icon        = "🍞"
+title       = "Food-Grade Stamp Production"
+description = "NSF-compliant food-safe polymer stamps for bakery, chocolate, and confectionery marking applications."
+
+
+[[params.services]]
+name        = "Photopolymer Stamp Printing"
+description = "Custom rubber stamp masters from DLP resin — artwork to stamp in 24 hours, any logo or text at 200µm resolution."
+icon        = "📮"
+image       = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=800&q=80"
+
+[[params.services]]
+name        = "Metal Embossing Dies"
+description = "DMLS tool steel embossing and debossing dies for industrial packaging, leather goods, and letterpress printing."
+icon        = "⚙️"
+image       = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=800&q=80"
+
+[[params.services]]
+name        = "Industrial Marking Tools"
+description = "Part identification dies, date-code inserts, and hot stamp foil tooling for production line marking."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=800&q=80"
+
+[[params.services]]
+name        = "Food-Grade Stamp Production"
+description = "NSF-compliant food-safe polymer stamps for bakery, chocolate, and confectionery marking applications."
+icon        = "🍞"
+image       = "https://images.unsplash.com/photo-1569437061241-a848be43cc82?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintstamps.com"
+url         = "https://3dprintstamps.com"
+description = "Custom stamp 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[params.clusterLinks]]
+name        = "3dprintplastic.com"
+url         = "https://3dprintplastic.com"
+description = "Plastics 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintarchitecture.com"
+url         = "https://3dprintarchitecture.com"
+description = "Architecture AM"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
